@@ -1,0 +1,23 @@
+{
+  "name": "menu-antojitos-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/REMKA-HAZE/Menu-antojitos-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/REMKA-HAZE/Menu-antojitos-NodeJS/issues"
+  },
+  "homepage": "https://github.com/REMKA-HAZE/Menu-antojitos-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
